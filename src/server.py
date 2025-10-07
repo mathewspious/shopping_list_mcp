@@ -20,7 +20,7 @@ logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
         logging.StreamHandler(sys.stderr),  # Use stderr for MCP compatibility
-        logging.FileHandler('shopping_list_mcp.log')
+        #logging.FileHandler('shopping_list_mcp.log')
     ]
 )
 
