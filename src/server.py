@@ -337,3 +337,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+    # Initialize on module import (for FastMCP Cloud)
+# But don't call mcp.run() - FastMCP Cloud will handle that
+if __name__ != "__main__":
+    # Module is being imported (FastMCP Cloud scenario)
+    logger.info("Initializing MCP server for FastMCP Cloud...")
+    if not initialize_server():
+        logger.error("Failed to initialize server")
+        sys.exit(1)

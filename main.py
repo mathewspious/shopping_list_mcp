@@ -12,7 +12,11 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 if current_dir not in sys.path:
     sys.path.insert(0, current_dir)
 
-# Now import and run the server
-from src.server import main
+# Import the MCP server instance
+# FastMCP Cloud will use this automatically
+from src.server import mcp
 
-main()
+# Only run main() if executed directly (local development)
+if __name__ == "__main__":
+    from src.server import main
+    main()

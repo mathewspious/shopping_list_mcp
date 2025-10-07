@@ -62,6 +62,7 @@ class Config:
         try:
             # Check MongoDB URI
             uri = self.mongodb_uri
+            
             if not uri.startswith(("mongodb://", "mongodb+srv://")):
                 raise ConfigurationError(
                     "Invalid MongoDB URI format",
