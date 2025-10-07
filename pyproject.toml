@@ -1,0 +1,18 @@
+[project]
+name = "shopping-list-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.3"
+dependencies = [
+    "dnspython>=2.8.0",
+    "fastmcp>=2.12.4",
+    "pymongo>=4.15.1",
+]
+
+[dependency-groups]
+dev = [
+    "black>=25.9.0",
+    "pytest>=8.4.2",
+    "ruff>=0.13.2",
+]

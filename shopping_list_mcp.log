@@ -1,0 +1,199 @@
+2025-10-02 12:35:05,517 - __main__ - INFO - ============================================================
+2025-10-02 12:35:05,517 - __main__ - INFO - Starting Shopping List MCP Server
+2025-10-02 12:35:05,517 - __main__ - INFO - ============================================================
+2025-10-02 12:35:05,517 - __main__ - INFO - Validating configuration...
+2025-10-02 12:35:05,517 - __main__ - ERROR - ❌ Configuration error: MONGODB_URI environment variable is not set
+2025-10-02 12:35:05,517 - __main__ - ERROR - Details: {'env_var': 'MONGODB_URI'}
+2025-10-02 12:35:05,517 - __main__ - ERROR - Server initialization failed
+2025-10-02 12:35:05,517 - __main__ - INFO - Shutting down Shopping List MCP Server...
+2025-10-02 12:35:05,517 - __main__ - INFO - Server shutdown complete
+2025-10-02 12:46:48,096 - __main__ - INFO - ============================================================
+2025-10-02 12:46:48,096 - __main__ - INFO - Starting Shopping List MCP Server
+2025-10-02 12:46:48,096 - __main__ - INFO - ============================================================
+2025-10-02 12:46:48,096 - __main__ - INFO - Validating configuration...
+2025-10-02 12:46:48,096 - __main__ - ERROR - ❌ Configuration error: MONGODB_URI environment variable is not set
+2025-10-02 12:46:48,096 - __main__ - ERROR - Details: {'env_var': 'MONGODB_URI'}
+2025-10-02 12:46:48,096 - __main__ - ERROR - Server initialization failed
+2025-10-02 12:46:48,096 - __main__ - INFO - Shutting down Shopping List MCP Server...
+2025-10-02 12:46:48,096 - __main__ - INFO - Server shutdown complete
+2025-10-02 12:47:48,591 - __main__ - INFO - ============================================================
+2025-10-02 12:47:48,591 - __main__ - INFO - Starting Shopping List MCP Server
+2025-10-02 12:47:48,591 - __main__ - INFO - ============================================================
+2025-10-02 12:47:48,591 - __main__ - INFO - Validating configuration...
+2025-10-02 12:47:48,591 - __main__ - INFO - ✓ Configuration validated successfully
+2025-10-02 12:47:48,591 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-02 12:47:48,591 - src.database - INFO - Connecting to MongoDB...
+2025-10-02 12:47:49,659 - src.database - INFO - Successfully connected to MongoDB
+2025-10-02 12:47:49,660 - __main__ - INFO - ✓ Database connected successfully
+2025-10-02 12:47:49,660 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 12:47:49,660 - __main__ - INFO - ✓ User detection configured (test: mathewspious)
+2025-10-02 12:47:49,660 - __main__ - INFO - ============================================================
+2025-10-02 12:47:49,660 - __main__ - INFO - Shopping List MCP Server Ready!
+2025-10-02 12:47:49,660 - __main__ - INFO - ============================================================
+2025-10-02 12:47:49,661 - __main__ - INFO - Starting MCP server...
+2025-10-02 12:48:25,477 - __main__ - INFO - Received shutdown signal
+2025-10-02 12:48:25,478 - __main__ - INFO - Shutting down Shopping List MCP Server...
+2025-10-02 12:48:25,571 - src.database - INFO - Disconnected from MongoDB
+2025-10-02 12:48:25,571 - __main__ - INFO - Server shutdown complete
+2025-10-02 12:51:11,032 - __main__ - INFO - ============================================================
+2025-10-02 12:51:11,032 - __main__ - INFO - Starting Shopping List MCP Server
+2025-10-02 12:51:11,032 - __main__ - INFO - ============================================================
+2025-10-02 12:51:11,033 - __main__ - INFO - Validating configuration...
+2025-10-02 12:51:11,033 - __main__ - INFO - ✓ Configuration validated successfully
+2025-10-02 12:51:11,033 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-02 12:51:11,033 - src.database - INFO - Connecting to MongoDB...
+2025-10-02 12:51:12,107 - src.database - INFO - Successfully connected to MongoDB
+2025-10-02 12:51:12,107 - __main__ - INFO - ✓ Database connected successfully
+2025-10-02 12:51:12,107 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 12:51:12,107 - __main__ - INFO - ✓ User detection configured (test: mathewspious)
+2025-10-02 12:51:12,107 - __main__ - INFO - ============================================================
+2025-10-02 12:51:12,107 - __main__ - INFO - Shopping List MCP Server Ready!
+2025-10-02 12:51:12,107 - __main__ - INFO - ============================================================
+2025-10-02 12:51:12,107 - __main__ - INFO - Starting MCP server...
+2025-10-02 12:51:12,125 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-02 12:51:12,126 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-02 12:51:12,127 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-02 13:14:58,289 - __main__ - INFO - ============================================================
+2025-10-02 13:14:58,289 - __main__ - INFO - Starting Shopping List MCP Server
+2025-10-02 13:14:58,289 - __main__ - INFO - ============================================================
+2025-10-02 13:14:58,289 - __main__ - INFO - Validating configuration...
+2025-10-02 13:14:58,289 - __main__ - INFO - ✓ Configuration validated successfully
+2025-10-02 13:14:58,289 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-02 13:14:58,289 - src.database - INFO - Connecting to MongoDB...
+2025-10-02 13:14:59,332 - src.database - INFO - Successfully connected to MongoDB
+2025-10-02 13:14:59,332 - __main__ - INFO - ✓ Database connected successfully
+2025-10-02 13:14:59,333 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 13:14:59,333 - __main__ - INFO - ✓ User detection configured (test: mathewspious)
+2025-10-02 13:14:59,333 - __main__ - INFO - ============================================================
+2025-10-02 13:14:59,333 - __main__ - INFO - Shopping List MCP Server Ready!
+2025-10-02 13:14:59,333 - __main__ - INFO - ============================================================
+2025-10-02 13:14:59,333 - __main__ - INFO - Starting MCP server...
+2025-10-02 13:15:17,014 - __main__ - INFO - Received shutdown signal
+2025-10-02 13:15:17,015 - __main__ - INFO - Shutting down Shopping List MCP Server...
+2025-10-02 13:15:17,118 - src.database - INFO - Disconnected from MongoDB
+2025-10-02 13:15:17,118 - __main__ - INFO - Server shutdown complete
+2025-10-02 14:48:22,860 - __main__ - INFO - ============================================================
+2025-10-02 14:48:22,860 - __main__ - INFO - Starting Shopping List MCP Server
+2025-10-02 14:48:22,860 - __main__ - INFO - ============================================================
+2025-10-02 14:48:22,860 - __main__ - INFO - Validating configuration...
+2025-10-02 14:48:22,860 - __main__ - INFO - ✓ Configuration validated successfully
+2025-10-02 14:48:22,860 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-02 14:48:22,860 - src.database - INFO - Connecting to MongoDB...
+2025-10-02 14:48:23,935 - src.database - INFO - Successfully connected to MongoDB
+2025-10-02 14:48:23,935 - __main__ - INFO - ✓ Database connected successfully
+2025-10-02 14:48:23,935 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 14:48:23,935 - __main__ - INFO - ✓ User detection configured (test: mathewspious)
+2025-10-02 14:48:23,935 - __main__ - INFO - ============================================================
+2025-10-02 14:48:23,935 - __main__ - INFO - Shopping List MCP Server Ready!
+2025-10-02 14:48:23,935 - __main__ - INFO - ============================================================
+2025-10-02 14:48:23,935 - __main__ - INFO - Starting MCP server...
+2025-10-02 14:48:23,959 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-02 14:48:23,960 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-02 14:48:23,960 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-02 17:03:07,198 - __main__ - INFO - ============================================================
+2025-10-02 17:03:07,198 - __main__ - INFO - Starting Shopping List MCP Server
+2025-10-02 17:03:07,198 - __main__ - INFO - ============================================================
+2025-10-02 17:03:07,198 - __main__ - INFO - Validating configuration...
+2025-10-02 17:03:07,198 - __main__ - INFO - ✓ Configuration validated successfully
+2025-10-02 17:03:07,198 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-02 17:03:07,198 - src.database - INFO - Connecting to MongoDB...
+2025-10-02 17:03:08,235 - src.database - INFO - Successfully connected to MongoDB
+2025-10-02 17:03:08,236 - __main__ - INFO - ✓ Database connected successfully
+2025-10-02 17:03:08,236 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 17:03:08,236 - __main__ - INFO - ✓ User detection configured (test: mathewspious)
+2025-10-02 17:03:08,236 - __main__ - INFO - ============================================================
+2025-10-02 17:03:08,236 - __main__ - INFO - Shopping List MCP Server Ready!
+2025-10-02 17:03:08,236 - __main__ - INFO - ============================================================
+2025-10-02 17:03:08,236 - __main__ - INFO - Starting MCP server...
+2025-10-02 17:03:08,266 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-02 17:03:08,267 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-02 17:03:08,268 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-02 17:03:20,164 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-02 17:03:20,166 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 17:03:20,166 - __main__ - INFO - get_shopping_list called by user: mathewspious
+2025-10-02 17:03:20,363 - src.database - INFO - Created user: mathewspious
+2025-10-02 17:03:20,364 - src.services.user_service - INFO - Retrieved/created user: mathewspious
+2025-10-02 17:03:20,547 - src.database - INFO - Created shopping list for user: mathewspious
+2025-10-02 17:03:20,548 - src.services.shopping_list_service - INFO - Retrieved shopping list for user mathewspious
+2025-10-02 17:03:20,550 - mcp.server.lowlevel.server - INFO - Warning: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+2025-10-02 17:03:20,551 - mcp.server.lowlevel.server - INFO - Warning: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+2025-10-02 17:03:43,179 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-02 17:03:43,182 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 17:03:43,182 - __main__ - INFO - add_item called by user: mathewspious
+2025-10-02 17:03:43,274 - src.services.user_service - INFO - Retrieved/created user: mathewspious
+2025-10-02 17:03:43,461 - src.database - INFO - Updated shopping list for user: mathewspious
+2025-10-02 17:03:43,461 - src.services.shopping_list_service - INFO - Added item 'milk' to list for user mathewspious
+2025-10-02 17:03:43,462 - mcp.server.lowlevel.server - INFO - Warning: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+2025-10-02 17:03:43,463 - mcp.server.lowlevel.server - INFO - Warning: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+2025-10-02 17:04:01,715 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-02 17:04:01,717 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 17:04:01,717 - __main__ - INFO - get_shopping_list called by user: mathewspious
+2025-10-02 17:04:01,810 - src.services.user_service - INFO - Retrieved/created user: mathewspious
+2025-10-02 17:04:01,910 - src.services.shopping_list_service - INFO - Retrieved shopping list for user mathewspious
+2025-10-02 17:09:59,032 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-02 17:09:59,035 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 17:09:59,035 - __main__ - INFO - add_item called by user: mathewspious
+2025-10-02 17:09:59,126 - src.services.user_service - INFO - Retrieved/created user: mathewspious
+2025-10-02 17:09:59,323 - src.database - INFO - Updated shopping list for user: mathewspious
+2025-10-02 17:09:59,323 - src.services.shopping_list_service - INFO - Added item 'onion' to list for user mathewspious
+2025-10-02 17:09:59,324 - mcp.server.lowlevel.server - INFO - Warning: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+2025-10-02 17:09:59,324 - mcp.server.lowlevel.server - INFO - Warning: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+2025-10-02 17:10:33,096 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-02 17:10:33,098 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 17:10:33,098 - __main__ - INFO - add_item called by user: mathewspious
+2025-10-02 17:10:33,191 - src.services.user_service - INFO - Retrieved/created user: mathewspious
+2025-10-02 17:10:33,385 - src.database - INFO - Updated shopping list for user: mathewspious
+2025-10-02 17:10:33,385 - src.services.shopping_list_service - INFO - Added item 'mozzarella cheese' to list for user mathewspious
+2025-10-02 17:10:33,386 - mcp.server.lowlevel.server - INFO - Warning: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+2025-10-02 17:10:33,387 - mcp.server.lowlevel.server - INFO - Warning: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+2025-10-02 17:10:50,959 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-02 17:10:50,960 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 17:10:50,960 - __main__ - INFO - get_shopping_list called by user: mathewspious
+2025-10-02 17:10:51,053 - src.services.user_service - INFO - Retrieved/created user: mathewspious
+2025-10-02 17:10:51,147 - src.services.shopping_list_service - INFO - Retrieved shopping list for user mathewspious
+2025-10-02 17:11:59,157 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-02 17:11:59,159 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 17:11:59,159 - __main__ - INFO - check_item called by user: mathewspious
+2025-10-02 17:11:59,358 - src.database - INFO - Updated shopping list for user: mathewspious
+2025-10-02 17:11:59,358 - src.services.shopping_list_service - INFO - Checked item 'onion' in list for user mathewspious
+2025-10-02 17:11:59,359 - mcp.server.lowlevel.server - INFO - Warning: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+2025-10-02 17:11:59,359 - mcp.server.lowlevel.server - INFO - Warning: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+2025-10-02 17:12:20,683 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-02 17:12:20,684 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-02 17:12:20,684 - __main__ - INFO - get_shopping_list called by user: mathewspious
+2025-10-02 17:12:20,777 - src.services.user_service - INFO - Retrieved/created user: mathewspious
+2025-10-02 17:12:20,870 - src.services.shopping_list_service - INFO - Retrieved shopping list for user mathewspious
+2025-10-03 10:08:54,009 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-03 10:08:54,013 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-03 10:08:54,013 - __main__ - INFO - get_shopping_list called by user: mathewspious
+2025-10-03 10:08:54,111 - src.services.user_service - INFO - Retrieved/created user: mathewspious
+2025-10-03 10:08:54,211 - src.services.shopping_list_service - INFO - Retrieved shopping list for user mathewspious
+2025-10-03 10:09:29,171 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-03 10:09:29,172 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-03 10:09:29,172 - __main__ - INFO - clear_checked_items called by user: mathewspious
+2025-10-03 10:09:29,373 - src.database - INFO - Updated shopping list for user: mathewspious
+2025-10-03 10:09:29,373 - src.services.shopping_list_service - INFO - Cleared 1 checked items from list for user mathewspious
+2025-10-03 10:09:29,375 - mcp.server.lowlevel.server - INFO - Warning: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+2025-10-06 15:40:29,351 - __main__ - INFO - ============================================================
+2025-10-06 15:40:29,351 - __main__ - INFO - Starting Shopping List MCP Server
+2025-10-06 15:40:29,351 - __main__ - INFO - ============================================================
+2025-10-06 15:40:29,351 - __main__ - INFO - Validating configuration...
+2025-10-06 15:40:29,351 - __main__ - INFO - ✓ Configuration validated successfully
+2025-10-06 15:40:29,351 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-06 15:40:29,351 - src.database - INFO - Connecting to MongoDB...
+2025-10-06 15:40:30,445 - src.database - INFO - Successfully connected to MongoDB
+2025-10-06 15:40:30,445 - __main__ - INFO - ✓ Database connected successfully
+2025-10-06 15:40:30,445 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-06 15:40:30,445 - __main__ - INFO - ✓ User detection configured (test: mathewspious)
+2025-10-06 15:40:30,445 - __main__ - INFO - ============================================================
+2025-10-06 15:40:30,445 - __main__ - INFO - Shopping List MCP Server Ready!
+2025-10-06 15:40:30,445 - __main__ - INFO - ============================================================
+2025-10-06 15:40:30,445 - __main__ - INFO - Starting MCP server...
+2025-10-06 15:40:30,476 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-06 15:40:30,477 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-06 15:40:30,477 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-06 21:39:47,743 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-06 21:39:47,750 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-06 21:39:47,750 - __main__ - INFO - get_shopping_list called by user: mathewspious
+2025-10-06 21:39:47,857 - src.services.user_service - INFO - Retrieved/created user: mathewspious
+2025-10-06 21:39:47,954 - src.services.shopping_list_service - INFO - Retrieved shopping list for user mathewspious
