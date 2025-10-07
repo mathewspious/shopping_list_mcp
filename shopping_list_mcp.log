@@ -197,3 +197,21 @@
 2025-10-06 21:39:47,750 - __main__ - INFO - get_shopping_list called by user: mathewspious
 2025-10-06 21:39:47,857 - src.services.user_service - INFO - Retrieved/created user: mathewspious
 2025-10-06 21:39:47,954 - src.services.shopping_list_service - INFO - Retrieved shopping list for user mathewspious
+2025-10-06 21:58:36,846 - __main__ - INFO - ============================================================
+2025-10-06 21:58:36,846 - __main__ - INFO - Starting Shopping List MCP Server
+2025-10-06 21:58:36,846 - __main__ - INFO - ============================================================
+2025-10-06 21:58:36,846 - __main__ - INFO - Validating configuration...
+2025-10-06 21:58:36,846 - __main__ - INFO - ✓ Configuration validated successfully
+2025-10-06 21:58:36,846 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-06 21:58:36,846 - src.database - INFO - Connecting to MongoDB...
+2025-10-06 21:58:37,909 - src.database - INFO - Successfully connected to MongoDB
+2025-10-06 21:58:37,909 - __main__ - INFO - ✓ Database connected successfully
+2025-10-06 21:58:37,909 - __main__ - INFO - ⚠️ Falling back to system username: mathewspious
+2025-10-06 21:58:37,909 - __main__ - INFO - ✓ User detection configured (test: mathewspious)
+2025-10-06 21:58:37,909 - __main__ - INFO - ============================================================
+2025-10-06 21:58:37,909 - __main__ - INFO - Shopping List MCP Server Ready!
+2025-10-06 21:58:37,909 - __main__ - INFO - ============================================================
+2025-10-06 21:58:37,909 - __main__ - INFO - Starting MCP server...
+2025-10-06 21:58:37,926 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-06 21:58:37,927 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-06 21:58:37,928 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest

@@ -8,6 +8,7 @@ dependencies = [
     "dnspython>=2.8.0",
     "fastmcp>=2.12.4",
     "pymongo>=4.15.1",
+    "python-dotenv>=1.0.0",
 ]
 
 [dependency-groups]
@@ -16,3 +17,10 @@ dev = [
     "pytest>=8.4.2",
     "ruff>=0.13.2",
 ]
+
+[build-system]
+requires = ["setuptools>=68.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["src", "src.services", "src.tools"]
