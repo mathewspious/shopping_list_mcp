@@ -15,5 +15,4 @@ if current_dir not in sys.path:
 # Now import and run the server
 from src.server import main
 
-if __name__ == "__main__":
-    main()
+main()
