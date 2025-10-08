@@ -1157,11 +1157,12 @@ wheels = [
 [[package]]
 name = "shopping-list-mcp"
 version = "0.1.0"
-source = { virtual = "." }
+source = { editable = "." }
 dependencies = [
     { name = "dnspython" },
     { name = "fastmcp" },
     { name = "pymongo" },
+    { name = "python-dotenv" },
 ]
 
 [package.dev-dependencies]
@@ -1176,6 +1177,7 @@ requires-dist = [
     { name = "dnspython", specifier = ">=2.8.0" },
     { name = "fastmcp", specifier = ">=2.12.4" },
     { name = "pymongo", specifier = ">=4.15.1" },
+    { name = "python-dotenv", specifier = ">=1.0.0" },
 ]
 
 [package.metadata.requires-dev]
